@@ -1,0 +1,1 @@
+Welcome to the Instagram Page with EJS project! This repository contains a simple web application that mimics an Instagram-like page using Express and EJS templating. The project aims to demonstrate the integration of server-side rendering with EJS and basic CRUD operations.
